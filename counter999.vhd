@@ -1,4 +1,4 @@
---1hz clock
+--0 to 999 counter on FPGA by Ninad Waingankar
 library ieee;
 use ieee.std_logic_1164.all;
 use ieee.std_logic_unsigned.all;
